@@ -43,19 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaIS41&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaIS41&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-🥇 Top 10 Finalist – ML Hackathon, IIT Kanpur (Techkriti 2025)
-
----
 
 ## 📫 Connect With Me
 
