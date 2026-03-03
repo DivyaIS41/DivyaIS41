@@ -1,55 +1,71 @@
-# 👋 Hi, I'm Divya K
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Divya+K+%F0%9F%91%8B;Full+Stack+Developer;Aspiring+Software+Development+Engineer;Building+Impactful+Web+Solutions" />
+</p>
 
-🎓 B.E. Information Science Student  
-💻 Aspiring Software Development Engineer  
-🚀 Full Stack Developer | Python • Flask • React  
-👩‍💻 Team Lead @ ISDC (Innovex Student Developer Community)  
+
+## 👩‍💻 About
+
+- 🎓 B.E. Information Science Student  
+- 🚀 Team Lead @ ISDC (Innovex Student Developer Community)  
+- 💡 Focused on building secure, scalable web applications  
+- 📚 Exploring backend engineering & system design  
+
+
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages  
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+
+
+### 🌐 Frontend Development  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+
+
+### ⚙️ Backend & Databases  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,express,mysql,mongodb,sqlite" />
+</p>
+
+
+
+### 🧰 Tools & Development Environment  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+
+
+
+
+## 🏆 Highlight
+
+Top 10 Finalist — Machine Learning Hackathon  
+Techkriti 2025, IIT Kanpur
+
+
+
+## 📬 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divya-k-bbba01292/">LinkedIn</a> • 
+  <a href="mailto:divyavivek023@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🌟 About Me
-
-- 🔭 Currently building real-world web applications  
-- 🌱 Learning advanced backend & system design concepts  
-- 👯 Open to collaboration on web development projects  
-- 💡 Passionate about secure and scalable software systems  
-- 🎯 Goal: Become a strong SDE in a product-based company  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Database
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/divya-k-bbba01292/
-- 💻 GitHub: https://github.com/DivyaIS41
-- 📧 Email: divyavivek023@gmail.com
-
----
-
-⭐ From [DivyaIS41](https://github.com/DivyaIS41)
+<p align="center">
+  <sub>Building consistently. Growing continuously.</sub>
+</p>
