@@ -50,13 +50,6 @@
 
 
 
-## 🏆 Highlight
-
-Top 10 Finalist — Machine Learning Hackathon  
-Techkriti 2025, IIT Kanpur
-
-
-
 ## 📬 Connect
 
 <p align="center">
